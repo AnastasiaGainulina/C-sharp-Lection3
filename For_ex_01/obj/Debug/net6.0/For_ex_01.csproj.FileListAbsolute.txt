@@ -1,0 +1,15 @@
+C:\Users\Анастасия\Desktop\GB\C sharp\Lections\Lec3\For_ex_01\bin\Debug\net6.0\For_ex_01.exe
+C:\Users\Анастасия\Desktop\GB\C sharp\Lections\Lec3\For_ex_01\bin\Debug\net6.0\For_ex_01.deps.json
+C:\Users\Анастасия\Desktop\GB\C sharp\Lections\Lec3\For_ex_01\bin\Debug\net6.0\For_ex_01.runtimeconfig.json
+C:\Users\Анастасия\Desktop\GB\C sharp\Lections\Lec3\For_ex_01\bin\Debug\net6.0\For_ex_01.dll
+C:\Users\Анастасия\Desktop\GB\C sharp\Lections\Lec3\For_ex_01\bin\Debug\net6.0\For_ex_01.pdb
+C:\Users\Анастасия\Desktop\GB\C sharp\Lections\Lec3\For_ex_01\obj\Debug\net6.0\For_ex_01.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\GB\C sharp\Lections\Lec3\For_ex_01\obj\Debug\net6.0\For_ex_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\Desktop\GB\C sharp\Lections\Lec3\For_ex_01\obj\Debug\net6.0\For_ex_01.AssemblyInfoInputs.cache
+C:\Users\Анастасия\Desktop\GB\C sharp\Lections\Lec3\For_ex_01\obj\Debug\net6.0\For_ex_01.AssemblyInfo.cs
+C:\Users\Анастасия\Desktop\GB\C sharp\Lections\Lec3\For_ex_01\obj\Debug\net6.0\For_ex_01.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\GB\C sharp\Lections\Lec3\For_ex_01\obj\Debug\net6.0\For_ex_01.dll
+C:\Users\Анастасия\Desktop\GB\C sharp\Lections\Lec3\For_ex_01\obj\Debug\net6.0\refint\For_ex_01.dll
+C:\Users\Анастасия\Desktop\GB\C sharp\Lections\Lec3\For_ex_01\obj\Debug\net6.0\For_ex_01.pdb
+C:\Users\Анастасия\Desktop\GB\C sharp\Lections\Lec3\For_ex_01\obj\Debug\net6.0\For_ex_01.genruntimeconfig.cache
+C:\Users\Анастасия\Desktop\GB\C sharp\Lections\Lec3\For_ex_01\obj\Debug\net6.0\ref\For_ex_01.dll
