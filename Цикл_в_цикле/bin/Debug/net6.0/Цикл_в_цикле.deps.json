@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Цикл_в_цикле/1.0.0": {
+        "runtime": {
+          "Цикл_в_цикле.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Цикл_в_цикле/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

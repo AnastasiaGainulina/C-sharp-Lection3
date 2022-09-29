@@ -1,0 +1,15 @@
+C:\Users\Анастасия\Desktop\GB\C sharp\Lections\Lec3\Цикл_в_цикле\obj\Debug\net6.0\Цикл_в_цикле.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\GB\C sharp\Lections\Lec3\Цикл_в_цикле\obj\Debug\net6.0\Цикл_в_цикле.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\Desktop\GB\C sharp\Lections\Lec3\Цикл_в_цикле\obj\Debug\net6.0\Цикл_в_цикле.AssemblyInfoInputs.cache
+C:\Users\Анастасия\Desktop\GB\C sharp\Lections\Lec3\Цикл_в_цикле\obj\Debug\net6.0\Цикл_в_цикле.AssemblyInfo.cs
+C:\Users\Анастасия\Desktop\GB\C sharp\Lections\Lec3\Цикл_в_цикле\obj\Debug\net6.0\Цикл_в_цикле.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\GB\C sharp\Lections\Lec3\Цикл_в_цикле\bin\Debug\net6.0\Цикл_в_цикле.exe
+C:\Users\Анастасия\Desktop\GB\C sharp\Lections\Lec3\Цикл_в_цикле\bin\Debug\net6.0\Цикл_в_цикле.deps.json
+C:\Users\Анастасия\Desktop\GB\C sharp\Lections\Lec3\Цикл_в_цикле\bin\Debug\net6.0\Цикл_в_цикле.runtimeconfig.json
+C:\Users\Анастасия\Desktop\GB\C sharp\Lections\Lec3\Цикл_в_цикле\bin\Debug\net6.0\Цикл_в_цикле.dll
+C:\Users\Анастасия\Desktop\GB\C sharp\Lections\Lec3\Цикл_в_цикле\bin\Debug\net6.0\Цикл_в_цикле.pdb
+C:\Users\Анастасия\Desktop\GB\C sharp\Lections\Lec3\Цикл_в_цикле\obj\Debug\net6.0\Цикл_в_цикле.dll
+C:\Users\Анастасия\Desktop\GB\C sharp\Lections\Lec3\Цикл_в_цикле\obj\Debug\net6.0\refint\Цикл_в_цикле.dll
+C:\Users\Анастасия\Desktop\GB\C sharp\Lections\Lec3\Цикл_в_цикле\obj\Debug\net6.0\Цикл_в_цикле.pdb
+C:\Users\Анастасия\Desktop\GB\C sharp\Lections\Lec3\Цикл_в_цикле\obj\Debug\net6.0\Цикл_в_цикле.genruntimeconfig.cache
+C:\Users\Анастасия\Desktop\GB\C sharp\Lections\Lec3\Цикл_в_цикле\obj\Debug\net6.0\ref\Цикл_в_цикле.dll
